@@ -1,0 +1,102 @@
+.top-container {
+  padding-top: 8%;
+  background-color: black;
+  padding-bottom: 15%;
+  width: 100%;
+  font-size: 0;
+}
+
+.top-bar {
+  height: 50px;
+  width: 100%;
+  background-color: #464646;
+  position: fixed;
+  top: 0;
+}
+
+.top-left {
+  padding-left: 15%;
+  display: inline-block;
+  width: 45%;
+  margin: 0;
+  vertical-align: middle;
+}
+
+.middle-container {
+  background-color: black;
+}
+
+.bottom-container {
+  background-color: blue;
+}
+
+.earth {
+  margin: 0;
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: white;
+}
+
+.big-title {
+  font-size: 7vw;
+  font-family: 'Great Vibes', cursive;
+  letter-spacing: 8px;
+  line-height: 1.5;
+  display: inline-block;
+  width: 90%;
+  margin: 0;
+}
+
+.intro {
+  font-size: 1.2vw;
+  letter-spacing: 3px;
+  line-height: 2;
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-radius: 0;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  height: 0;
+  width: 15%;
+  margin: 0 auto;
+}
+
+.multicolor {
+  color: #fff;
+  background: linear-gradient(271deg, #306fd6 10%, #a162e8 50%, #f093b0 70%, #edca85 94%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.photo {
+  width: 15%;
+  margin: 9% auto 5%;
+}
+
+.profile {
+  margin: 4% auto 8%;
+}
+
+.skills {
+  margin: 4% auto 8%;
+}
